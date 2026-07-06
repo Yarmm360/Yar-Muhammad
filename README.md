@@ -36,7 +36,7 @@ I'm Yar Muhammad Mangi, a Python learner and aspiring Machine Learning enthusias
 - Share my progress consistently.
 
 ## Connect With Me
-- Threads: [your Threads link]
+- Threads: https://www.threads.com/@its.yar.muhammad
 - GitHub: [your GitHub link]
 
 ---
